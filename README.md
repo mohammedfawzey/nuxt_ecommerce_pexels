@@ -1,0 +1,1 @@
+# nuxt_ecommerce_pexels
