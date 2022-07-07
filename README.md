@@ -77,7 +77,7 @@
 
 * [![Nuxt][Nuxt.js]][Nuxt-url]
 * [![Vue][Vue.js]][Vue-url]
-* [![Vuetify][Vuetify.js]][Vuetify-url]
+*  [![Vuetify][Vuetify.js]][Vuetify-url]
 * [![Sweetalert2]
 
 
@@ -238,6 +238,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [![Nuxt]: https://img.shields.io/badge/Nuxt.js-lightgrey?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82
 [Nuxt-url]: https://nuxtjs.org/docs/get-started/installation/
-[![Vuetify]: https://img.shields.io/badge/Vuetify.js-35495E?style=for-the-badge&logo=Vuetify&logoColor=blue
+[Vuetify.js]:https://img.shields.io/badge/Vuetify.js-blue?style=for-the-badge&logo=Vuetify&logoColor=#1867C0
 [Vuetify-url]: https://vuetifyjs.com/
+
 
