@@ -78,7 +78,6 @@
 * [![Nuxt][Nuxt.js]][Nuxt-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Vuetify][Vuetify.js]][Vuetify-url]
-* [![Sweetalert2]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -222,7 +221,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Nuxt.js]: https://img.shields.io/badge/Nuxt.js-lightgrey?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82
 [Nuxt-url]: https://nuxtjs.org
-[Vuetify.js]: https://img.shields.io/badge/Vuetify.js-blue?style=for-the-badge&logo=Vuetify&logoColor=#1867C0
+[Vuetify.js]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
 [Vuetify-url]: https://vuetifyjs.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
@@ -238,8 +237,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[![Nuxt]: https://img.shields.io/badge/Nuxt.js-lightgrey?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82
-[Nuxt-url]: https://nuxtjs.org/docs/get-started/installation/
+
 
 
 
