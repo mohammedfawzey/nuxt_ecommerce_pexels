@@ -25,8 +25,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="img/favicon/Web/icons8-shopping-mall-color-96.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mohammedfawzey/nuxt_ecommerce_pexels/blob/main/img/favicon/Web/icons8-shopping-mall-color-96.png">
+    <img src="img/favicon/Web/icons8-shopping-mall-color-96.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
