@@ -236,5 +236,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[![Nuxt]: https://nuxtjs.org/docs/get-started/installation/
-[![Vuetify]: https://vuetifyjs.com/
+[![Nuxt]: https://img.shields.io/badge/Nuxt.js-lightgrey?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82
+[Nuxt-url]: https://nuxtjs.org/docs/get-started/installation/
+[![Vuetify]: https://img.shields.io/badge/Vuetify.js-35495E?style=for-the-badge&logo=Vuetify&logoColor=blue
+[Vuetify-url]: https://vuetifyjs.com/
+[![Vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
