@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](preview/screencapture-192-168-153-1-8000-2022-07-07-20_20_03.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/mohammedfawzey/nuxt_ecommerce_pexels/blob/main/preview/screencapture-192-168-153-1-8000-2022-07-07-20_20_03.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
