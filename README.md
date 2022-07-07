@@ -32,7 +32,7 @@
   <h3 align="center">Nuxt_eCommerce_Project</h3>
 
   <p align="center">
-    An awesome eCommerce using Nuxtjs
+    An awesome eCommerce Website using Nuxtjs
     <br />
     <br />
     <a href="https://ecommerce-pexels.netlify.app/">View Demo</a>
@@ -59,11 +59,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -72,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](preview/screencapture-192-168-153-1-8000-2022-07-07-20_20_03.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
