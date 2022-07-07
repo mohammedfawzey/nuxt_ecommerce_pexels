@@ -219,7 +219,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-lightgrey?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82
+[Nuxt.js]: https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82
 [Nuxt-url]: https://nuxtjs.org
 [Vuetify.js]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
 [Vuetify-url]: https://vuetifyjs.com/
